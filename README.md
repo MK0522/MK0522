@@ -16,7 +16,6 @@
     <img src="https://render.gitanimals.org/farms/MK0522"/>
   </a>
   -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MK0522&layout=donut" />
   <br><br>
   
   
@@ -33,17 +32,23 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="80" alt="HTML" title="HTML" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" alt="JavaScript" title="JavaScript" />
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="80" alt="C#" />
-  </p><br>
+  </p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MK0522&layout=donut" /><br>
   
-  <h3>AI Tools</h4>
+  <h3>AI</h3>
+  <h4>Model</h4>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chatgpt.png" width="65" alt="ChatGPT" title="ChatGPT" />
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" width="65" alt="Codex" title="Codex" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/3840px-Google_Gemini_icon_2025.svg.png" width="65" alt="Gemini" title="Gemini" />
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" width="65" alt="Antigravity" title="Antigravity" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png" width="65" alt="Claude" title="Claude" />
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-copilot.png" width="65" alt="Copilot" title="Copilot" />
+    <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/openai-light.svg" width="70" alt="ChatGPT" title="ChatGPT" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/3840px-Google_Gemini_icon_2025.svg.png" width="70" alt="Gemini" title="Gemini" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png" width="70" alt="Claude" title="Claude" />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-copilot.png" width="70" alt="Copilot" title="Copilot" />
   </p><br>
+  <h4>Tools</h4>
+  <p>
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" width="80" alt="Codex" title="Codex" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" width="80" alt="Antigravity" title="Antigravity" />
+    <img src="https://ignos.blog/wp-content/uploads/2024/01/lm-studio-logo.png" width="80" alt="LM Studio" title="LM Studio" />
+  </p>
   
   <h3>Domain</h3>
   <h4>App</h4>
@@ -51,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" width="80" alt="Electron" title="Electron" />
     <img src="https://jackmordaunt.com/images/brands/wails.webp" width="80" alt=Wails title="Wails">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="80" alt="Unity" title="Unity" />
-  </p>
+  </p><br>
   
   <h4>Web</h4>
   <p>
@@ -59,7 +64,7 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" width="80" alt="Svelte" title="Svelte" />
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" alt="Nginx" title="Nginx" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" width="80" alt="WordPress" title="WordPress" />
-  </p>
+  </p><br>
   
   <h4>DB</h4>
   <p>
@@ -69,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="80" alt="MySQL" title="MySQL" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="80" alt="MariaDB" title="MariaDB" />
     -->
-  </p>
+  </p><br>
   
   <h4>Infra</h4>
   <p>
@@ -79,6 +84,15 @@
     -->
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="80" alt="GCP" title="GCP" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" alt="Docker" title="Docker" />
+  </p><br>
+
+  <h4>OS</h4>
+  <p>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Ubuntu-Dark.svg" width="80" alt="Ubuntu" title="Ubuntu" />
+    <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/kalilinux-dark.svg" width="80" alt="Kali" title="Kali" />
+    <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/windows-dark.svg" width="80" alt="Windows" title="Windows" />
+    <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons%232/proxmox-dark.svg" width="80" alt="Proxmox" title="Proxmox" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rocky_Linux_logo.svg/1280px-Rocky_Linux_logo.svg.png?utm_source=commons.wikimedia.org" width="80" alt="Rocky" title="Rocky" />
   </p><br>
 
   <h2 align="center">☝️About Me🤓</h2>
