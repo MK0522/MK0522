@@ -2,7 +2,6 @@
   <img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&waveHeight=80&bannerText=Profile" />
   <h2 align="center">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="30" />
-    GitHub Status
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="30" />
   </h2>
   <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=MK0522&theme=ubuntu" />
@@ -19,7 +18,7 @@
   <br><br>
   
   
-  <h2 align="center">🛠️Tech Stack🛠️</h2>
+  <h2 align="center">🛠️🛠️</h2>
   <h3>Langs</h3>
   <p>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" alt="Python" />
@@ -41,13 +40,11 @@
     <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/openai-light.svg" width="70" alt="ChatGPT" title="ChatGPT" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/3840px-Google_Gemini_icon_2025.svg.png" width="70" alt="Gemini" title="Gemini" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png" width="70" alt="Claude" title="Claude" />
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-copilot.png" width="70" alt="Copilot" title="Copilot" />
   </p><br>
   <h4>Tools</h4>
   <p>
     <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" width="80" alt="Codex" title="Codex" />
     <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" width="80" alt="Antigravity" title="Antigravity" />
-    <img src="https://ignos.blog/wp-content/uploads/2024/01/lm-studio-logo.png" width="80" alt="LM Studio" title="LM Studio" />
   </p>
   
   <h3>Domain</h3>
