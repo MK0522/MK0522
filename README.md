@@ -17,9 +17,9 @@
   <h2 align="center">🛠️🛠️</h2>
   <h3>Langs</h3>
   <p>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="80" alt="HTML" title="HTML" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" alt="Python" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="100" alt="HTML" title="HTML" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" width="80" alt="Go" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" alt="Python" />
     <!--
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="80" alt="C#" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="80" alt="C" title="C" />
@@ -30,58 +30,85 @@
   </p>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MK0522&layout=donut" /><br>
   
-  <h3>AI</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" width="80" alt="Codex" title="Codex" />
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" width="80" alt="Antigravity" title="Antigravity" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png" width="70" alt="Claude" title="Claude" />
-  </p><br>
-  
-  <h3>App</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" width="80" alt="Electron" title="Electron" />
-    <img src="https://jackmordaunt.com/images/brands/wails.webp" width="80" alt=Wails title="Wails">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="80" alt="Unity" title="Unity" />
-  </p><br>
-  
-  <h3>Web</h3>
-  <p>
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" alt="React" title="React" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" width="80" alt="Svelte" title="Svelte" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" alt="Nginx" title="Nginx" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" width="80" alt="WordPress" title="WordPress" />
-  </p><br>
-  
-  <h3>DB</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="80" alt="SQLite" title="SQLite" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="80" alt="PostgreSQL" title="PostgreSQL" />
-    <!--
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="80" alt="MySQL" title="MySQL" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="80" alt="MariaDB" title="MariaDB" />
-    -->
-  </p><br>
-  
-  <h3>Infra</h3>
-  <p>
-    <!--
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" alt="AWS" title="AWS" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="80" alt="Azure" title="Azure" />
-    -->
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="80" alt="GCP" title="GCP" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" alt="Docker" title="Docker" />
-  </p><br>
+  <table width="100%">
+  <!-- 1행: AI / DB -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>AI</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" width="55" alt="Codex" title="Codex" />
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" width="55" alt="Antigravity" title="Antigravity" />
+        <!--
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png" width="55" alt="Claude" title="Claude" />
+        -->
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>DB</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="55" alt="SQLite" title="SQLite" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="55" alt="PostgreSQL" title="PostgreSQL" />
+        <!--
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="55" alt="MySQL" title="MySQL" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="55" alt="MariaDB" title="MariaDB" />
+        -->
+      </p>
+    </td>
+  </tr>
 
-  <h3>OS</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Ubuntu-Dark.svg" width="80" alt="Ubuntu" title="Ubuntu" />
-    <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/kalilinux-dark.svg" width="80" alt="Kali" title="Kali" />
-    <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/windows-dark.svg" width="80" alt="Windows" title="Windows" />
-    <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons%232/proxmox-dark.svg" width="80" alt="Proxmox" title="Proxmox" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rocky_Linux_logo.svg/1280px-Rocky_Linux_logo.svg.png?utm_source=commons.wikimedia.org" width="80" alt="Rocky" title="Rocky" />
-  </p><br>
+  <!-- 2행 (비활성화): App / Web -->
+  <!--
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>App</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" width="55" alt="Electron" title="Electron" />
+        <img src="https://jackmordaunt.com/images/brands/wails.webp" width="55" alt="Wails" title="Wails" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="55" alt="Unity" title="Unity" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Web</h3>
+      <p align="center">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" alt="React" title="React" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" width="55" alt="Svelte" title="Svelte" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" alt="Nginx" title="Nginx" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" width="55" alt="WordPress" title="WordPress" />
+      </p>
+    </td>
+  </tr>
+  -->
+
+  <!-- 3행: Infra / OS -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Infra</h3>
+      <p align="center">
+        <!--
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" alt="AWS" title="AWS" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="55" alt="Azure" title="Azure" />
+        -->
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="55" alt="GCP" title="GCP" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" alt="Docker" title="Docker" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>OS</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/windows-dark.svg" width="55" alt="Windows" title="Windows" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Ubuntu-Dark.svg" width="55" alt="Ubuntu" title="Ubuntu" />
+        <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/kalilinux-dark.svg" width="55" alt="Kali" title="Kali" />
+        <!--
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rocky_Linux_logo.svg/1280px-Rocky_Linux_logo.svg.png?utm_source=commons.wikimedia.org" width="55" alt="Rocky" title="Rocky" />
+        <img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons%232/proxmox-dark.svg" width="55" alt="Proxmox" title="Proxmox" />
+        -->
+      </p>
+    </td>
+  </tr>
+</table>
 
   <h2 align="center">👋About Me🤓</h2>
+  <!--
   <a href=#>
     <img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   </a>
@@ -91,6 +118,7 @@
   <a href=#>
     <img src="https://img.shields.io/badge/9kwanis-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   </a>
+  -->
   
   <div align="center">
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31gfzr7x323xjl67j4g5q5qbbpbm">
