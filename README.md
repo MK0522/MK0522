@@ -36,8 +36,8 @@
     <td width="50%" align="center" valign="top">
       <h3>AI</h3>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" width="55" alt="Codex" title="Codex" />
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" width="55" alt="Antigravity" title="Antigravity" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/codex-icon.png" width="55" alt="Codex" title="Codex" />
+        <img src="https://avatars.githubusercontent.com/u/242056456?s=200&v=4" width="55" alt="Antigravity" title="Antigravity" />
         <!--
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png" width="55" alt="Claude" title="Claude" />
         -->
